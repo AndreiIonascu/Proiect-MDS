@@ -21,3 +21,9 @@ Unit Tests are [here](https://github.com/AndreiIonascu/Proiect-MDS/tree/master/T
 
 - We had a bug where it didn't remove the books from the list the right way.(indexing problem)
 - A bug that we encountered was also the way we show the alert, we used to let all the allerts there instead of making them disappear.
+
+## Refactoring:
+
+- The code was updated and implemented the part where it has to store books.
+- We arranged the code to easier understanding.
+- The code was written after and we used better coding practices.
