@@ -15,8 +15,9 @@ Github -> https://github.com/TataruRebeca/Proiect-MDS/commits/master
 
 ## Tests:
 
-
+Unit Tests are [here](https://github.com/AndreiIonascu/Proiect-MDS/tree/master/Tests).
 
 ## Bug Reports:
 
-We had a bug where it didn't remove
+- We had a bug where it didn't remove the books from the list the right way.(indexing problem)
+- A bug that we encountered was also the way we show the alert, we used to let all the allerts there instead of making them disappear.
